@@ -7,7 +7,7 @@ class Strings {
 
   static String castVotetextText = '3. Cast your vote.';
 
-  static String findyourselfText = '2. Find yourseld in voting list.';
+  static String findyourselfText = '2. Find yourself in voting list.';
 
   static String verifyYourselfText = '1. Verify yourself using adhar.';
 
@@ -19,7 +19,7 @@ class Strings {
 
   static var enterAdharNumber = 'Enter Adhar Number';
 
-  static String pleaseEnterAdhar = 'Please enter adhar number';
+  static String pleaseEnterAdhar = 'Please enter aadhar number';
 
   static String cantless12 = "Adhar can't be less than 12";
   static String notNegative = "Adhar can't be negative";

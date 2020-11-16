@@ -52,6 +52,7 @@ class _SeeVotesState extends State<SeeVotes> {
               ontap: () {
                 Strings.candidateVotes.clear();
                 PreferenceUtils.clear();
+                Navigator.pop(context);
               },
               buttonText: Strings.clearAll),
         ],
